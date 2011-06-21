@@ -1,0 +1,49 @@
+Partlist
+
+Exported from quadrotor.brd at 6/21/2011 3:22:23 PM
+
+EAGLE Version 5.0.0 Copyright (c) 1988-2008 CadSoft
+
+Part            Value          Package       Library     Position (mm)         Orientation
+
+5VREG           UA78M05        SOT223        MySMD       (5.8568 32.1964)      R270
+ACCEL-IN                       FE08          con-lsta    (23.7832 35.6086)     R0
+AUX-IO                         MA09-2        con-lstb    (19.47 5.56)          R180
+C1              0.1uF          CAP0805-NP    MySMD       (3.842 19.51)         MR270
+C2              4.7uF          TAN-A         MySMD       (8.7244 39.5666)      R180
+C3              0.1uF          CAP0805-NP    MySMD       (2.9866 4.4162)       MR90
+C4              0.1uF          CAP0805-NP    MySMD       (45.25 8.37)          MR0
+C5              0.1uF          CAP0805-NP    MySMD       (1.868 19.5588)       MR270
+C6              0.1uF          CAP0805-NP    MySMD       (2.7724 15.4092)      MR270
+C7              470pF          C0805         rcl         (3.21 21.78)          MR180
+C8              2.2uF          C0805         rcl         (2.26 24.48)          MR180
+C9              0.1uF          CAP0805-NP    MySMD       (5.23 3.62)           R270
+C10             4.7uF          TAN-A         MySMD       (8.5816 41.982)       R180
+COMM-LED        L_AMBER        LED0805       MySMD       (18.5744 44.784)      R180
+EXTERNAL-ON-OFF                1X02_LONGPADS SparkFun    (2.11 41.99)          R90
+F1              PTCPTH         PTC           SparkFun    (2.0128 36.0844)      R270
+FTDI                           1X06          SparkFun    (48.38 8.2)           R90
+GPS             EM408_CON      EM408_CON     SparkFun    (47 26.78)            R180
+GYRO-IN                        FE06          con-lsta    (11.8764 47.738)      R0
+I2C                            1X02          SparkFun    (41.85 45.22)         R90
+MAG-IN                         1X04          SparkFun    (38.38 34.7)          R90
+MOTOR-OUT                      1X06          SparkFun    (22.06 46.4)          R0
+POWER-LED       BLUE           LED0805       MySMD       (1.092 11.4816)       R270
+R1              5k             0603-RES      SparkFun    (10.69 30.5)          MR270
+R2              5k             0603-RES      SparkFun    (7.9 30.45)           MR270
+R4              5k             M0805         resistor    (6.0402 36.3778)      MR0
+R5              5k             M0805         resistor    (13.9036 32.638)      MR180
+R8              1k             0603-RES      SparkFun    (5.8 24.82)           MR0
+R9              330            0603-RES      SparkFun    (4.71 11.78)          R90
+R12             330            0603-RES      SparkFun    (1.18 4.8)            MR90
+R15             330            0603-RES      SparkFun    (13.85 44.75)         R180
+RECIEVER-POWER                 1X02          SparkFun    (21.96 42.85)         R0
+RECIVER                        FE06          con-lsta    (47.84 39.3534)       R90
+S1              SWS008         SMS-008       smd-special (40.91 11.7)          R90
+SENSOR-LED1     L_AMBER        LED0805       MySMD       (5.34 6.53)           R90
+SW2             RESET          157SW         MySMD       (3.1254 3.1408)       R90
+U1              ATMEGA168-20AU QFP032        MySMD       (28.18 21.4264)       R180
+U2              V_REG_LDOSMD   SOT23-5       SparkFun    (2.07 29.53)          MR180
+U4              ATMEGA168-20AU QFP032        MySMD       (4.9044 20.1536)      R270
+Y1              16MHz          RESONATOR     MySMD2      (22.772 19.274)       MR0
+Y2              16MHz          RESONATOR     MySMD2      (2.4776 14.5912)      R270
